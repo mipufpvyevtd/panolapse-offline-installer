@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Time-lapse+Software-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Time--lapse+Software-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
 **💻 Panolapse Free Installer** — Panolapse is a Windows and macOS application for adding smooth pan and zoom motion to time-lapse sequences and still images. Works without internet access, no account required. Full offline installation.
